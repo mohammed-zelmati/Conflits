@@ -1,0 +1,11 @@
+Pour simuler ce conflit sur votre poste de travail,
+suivez les étapes suivantes :
+
+-git pull ;
+-modifier en local le fichier README.md ;
+-git add README.md ;
+-git commit -m “#3 Ajout d’un prérequis" ;
+-modifier via l’interface web de GitHub le fichier README.md 
+(avec un texte différent de la modification locale) ;
+-git push ;
+-git pull.
