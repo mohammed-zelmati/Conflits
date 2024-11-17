@@ -1,4 +1,20 @@
-Pour simuler ce conflit sur votre poste de travail,
+installer et configurer Git et GitHub ;
+utiliser les commandes de base de Git ;
+git ad <nom de fichier>
+git commit -m "Commentaire"
+git push origin <la branche>
+----------------------------
+git pull
+git log
+git status 
+git merge
+git checkout <branche>      pour switch vers cette branche
+git checkout -b <branche>   pour créer une nouvelle branche
+...etc
+
+corriger les erreurs courantes sur GitHub:
+
+Pour simuler un conflit sur votre poste de travail,
 suivez les étapes suivantes :
 
 -git pull ;
